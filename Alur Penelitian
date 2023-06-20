@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T02:50:15.287Z" agent="5.0 (Windows)" version="20.8.0" etag="YEe3M8N7DrqludfgYmPa" type="github"><diagram id="gBC9XTfKs3VRX-YWl9_s">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-06-20T03:26:36.492Z" agent="5.0 (Windows)" version="20.8.0" etag="nYG3I8C1b-h9eO3C4JAY" type="github">
+  <diagram id="m_bDz-CazmitOxuscNfp" name="Halaman-1">
+    <mxGraphModel dx="1439" dy="555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eekYrJGw_ZRexyPIVBac-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="eekYrJGw_ZRexyPIVBac-2" target="eekYrJGw_ZRexyPIVBac-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eekYrJGw_ZRexyPIVBac-2" value="Studi Literatur" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-124" y="409" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="eekYrJGw_ZRexyPIVBac-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="eekYrJGw_ZRexyPIVBac-4" target="eekYrJGw_ZRexyPIVBac-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eekYrJGw_ZRexyPIVBac-4" value="Observasi Lapangan" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-124" y="455" width="120" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="eekYrJGw_ZRexyPIVBac-7" value="Pengambilan Data" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-124" y="507" width="120" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="eekYrJGw_ZRexyPIVBac-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eekYrJGw_ZRexyPIVBac-9" target="eekYrJGw_ZRexyPIVBac-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="23" y="154" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eekYrJGw_ZRexyPIVBac-9" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-99.5" y="116" width="71" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eekYrJGw_ZRexyPIVBac-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="eekYrJGw_ZRexyPIVBac-12" target="eekYrJGw_ZRexyPIVBac-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eekYrJGw_ZRexyPIVBac-12" value="&lt;div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Rumusan Masalah&lt;/b&gt;&lt;/div&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;span&gt;1.&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;Bagaimana neraca massa pada &lt;i&gt;Rotary Dryer&lt;/i&gt; Unit X PT. Aneka Tambang UBPN Kolaka?&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;span&gt;2.&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;Bagaimana neraca energi, entalpi, entropi, eksergi pada &lt;i&gt;RotaryDryer&lt;/i&gt; Unit X PT. &lt;a name=&quot;_Hlk138147185&quot;&gt;Aneka Tambang UBPN Kolaka&lt;/a&gt;?&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;span&gt;3.&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;Berapa nilai efisiensi energi dan seksergi &lt;i&gt;Rotary Dryer&lt;/i&gt;Unit X PT. Aneka Tambang UBPN Kolaka?&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;span&gt;4.&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;Berapa nilai ireversibilitas pada &lt;i&gt;Rotary Dryer &lt;/i&gt;Unit XPT. Aneka Tambang UBPN Kolaka?&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;span&gt;5.&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;Bagaimana nilai efisiensi energi dan eksergi &lt;i&gt;Rotary Dryer&lt;/i&gt;Unit X PT. Aneka Tambang UBPN Kolaka apabila dibandingkan dengan &lt;i&gt;basic design&lt;/i&gt;?&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-362.5" y="187" width="597" height="194" as="geometry" />
+        </mxCell>
+        <mxCell id="eekYrJGw_ZRexyPIVBac-15" value="&lt;div align=&quot;center&quot;&gt;Data Primer&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;ol&gt;&lt;li&gt;Data operasi RD&lt;/li&gt;&lt;li&gt;Data komposisi wet ore&lt;/li&gt;&lt;li&gt;Data temperatur wet ore&lt;/li&gt;&lt;li&gt;Data komposisi batubara/pulverized coal&lt;/li&gt;&lt;li&gt;Data temperatur batubara/pulverized coal&lt;/li&gt;&lt;li&gt;Data komposisi udara&lt;/li&gt;&lt;li&gt;Data temperatur udara&lt;/li&gt;&lt;li&gt;Data komposisi semi-dried ore&lt;/li&gt;&lt;li&gt;Data temperatur semi-dried ore&lt;/li&gt;&lt;li&gt;Data off gas&lt;/li&gt;&lt;li&gt;Data temperatur off gas&lt;/li&gt;&lt;li&gt;Data temperatur dinding RD&lt;/li&gt;&lt;li&gt;Data temperatur &lt;i&gt;hot slove shell&lt;/i&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-315" y="578" width="231" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="eekYrJGw_ZRexyPIVBac-18" value="&lt;div align=&quot;center&quot;&gt;Data Sekunder&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;ol&gt;&lt;li&gt;Data dimensi dan spesifikasi RD&lt;br&gt;&lt;/li&gt;&lt;li&gt;Data kapasitas panas tiap komponen&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-28.5" y="578" width="207.5" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="eekYrJGw_ZRexyPIVBac-21" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="eekYrJGw_ZRexyPIVBac-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-62" y="563" as="sourcePoint" />
+            <mxPoint x="-35" y="539" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
